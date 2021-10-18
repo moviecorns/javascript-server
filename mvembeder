@@ -1,1 +1,2 @@
-console.log('Wow! I am here')
+console.log('Wow! I am here');
+alert('HIi')
